@@ -1,0 +1,3 @@
+# matlab_deepLearningToolBox
+matlab深度学习工具箱
+提取cifar10的数据并且保存到文件夹用于deepNetworkDesigner训练数据输入
